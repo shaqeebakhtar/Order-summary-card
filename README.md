@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/order-summary-card-VnI0uvb52)
+- Live Site URL: [Netlify](https://frontendmentor-order-summary-card.netlify.app/)
 
 ### Built with
 
